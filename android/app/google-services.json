@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "268559372182",
+    "project_id": "mybisapp",
+    "storage_bucket": "mybisapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268559372182:android:6679684b86d56b286217b7",
+        "android_client_info": {
+          "package_name": "com.example.loginsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268559372182-ipkpeaami8q1dnma16eip5pup84npc44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJLnq5t9noifMroaaqEl-nNzW_W447Wks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268559372182-ipkpeaami8q1dnma16eip5pup84npc44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268559372182:android:54bd9187961253af6217b7",
+        "android_client_info": {
+          "package_name": "com.example.tall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268559372182-ipkpeaami8q1dnma16eip5pup84npc44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJLnq5t9noifMroaaqEl-nNzW_W447Wks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268559372182-ipkpeaami8q1dnma16eip5pup84npc44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
